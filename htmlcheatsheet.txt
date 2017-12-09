@@ -1,0 +1,12 @@
+<a> = anchor for hyperlinks
+<strong> for bold
+<em> for italics
+<ul> = unordered list
+<ol> = ordered list
+<li> = list item
+<img> = image
+<br /> = linebreak
+href = hyperlink reference
+target = where to open link:
+  1. _blank = blank page or tab
+  2. there are others that I don't remember
